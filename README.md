@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Portfolio Challenge}</h1>
+<h1 align="center">Portfolio Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://adelinked-portfolio-challenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/MdQv4z4FqskD7F5wXe2J">
       Solution
     </a>
     <span> | </span>
@@ -31,7 +31,6 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -71,6 +70,6 @@ $ npm run dev
 
 ## Contact
 
-- Website [your-website.com](https:adelinked.netlify.app)
+- Website [your-website.com](https://adelinked.netlify.app)
 - GitHub [@your-username](https://github.com/adelinked)
 - Twitter [@your-twitter](https://twitter.com/aadelinked)
