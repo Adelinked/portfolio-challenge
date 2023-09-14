@@ -1,0 +1,20 @@
+[
+  {
+    "set": "FRONT END",
+    "skills": [
+      { "name": "React", "progress": 0.6 },
+      { "name": "Typescript", "progress": 0.8 },
+      { "name": "css", "progress": 0.9 },
+      { "name": "Vue", "progress": 0.3 },
+      { "name": "Redux", "progress": 0.6 },
+      { "name": "React Native", "progress": 0.55 }
+    ]
+  },
+  {
+    "set": "DESIGN",
+    "skills": [
+      { "name": "Figma", "progress": 0.6 },
+      { "name": "Photoshop", "progress": 0.8 }
+    ]
+  }
+]

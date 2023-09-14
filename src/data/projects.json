@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Recipe Blog",
+    "description": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    
+    "tags": [
+      "HTML",
+      "CSS",
+      "Responsive"
+    ],
+    "image":"/projects/recipe_blog.jpg"
+  },
+  {
+    "title": "My Gallery",
+    "description": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Responsive"
+    ],
+    "image":"/projects/my_gallery.jpg"
+  },
+  {
+    "title": "Checkout",
+    "description": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Responsive"
+    ],
+    "image":"/projects/checkout.jpg"
+  },
+  {
+    "title": "Project 4",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "React","JavaScript"
+    ],
+    "image":"/projects/project4.jpg"
+  },
+  {
+    "title": "Project 5",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "React","JavaScript"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 6",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NextJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 7",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NodeJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 8",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "Python"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 9",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "CSS"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 10",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "MongoDB"
+    ],
+    "image":"/projects/project.jpg"
+  }
+  ,
+  {
+    "title": "Project 11",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "PostgreSQL"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  
+  {
+    "title": "Project 12",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "React","JavaScript"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 13",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NodeJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 14",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "Python"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 15",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "CSS"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 16",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "MongoDB"
+    ],
+    "image":"/projects/project.jpg"
+  }
+  ,
+  {
+    "title": "Project 17",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "PostgreSQL"
+    ],
+    "image":"/projects/project.jpg"
+  }
+  
+  ,
+  {
+    "title": "Project 18",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "React","JavaScript"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 19",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NextJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 20",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NodeJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 21",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "Python"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 22",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "CSS"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 23",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "MongoDB"
+    ],
+    "image":"/projects/project.jpg"
+  }
+  ,
+  {
+    "title": "Project 24",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "PostgreSQL"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  
+  {
+    "title": "Project 25",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "React","JavaScript"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 26",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NextJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 27",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "NodeJs"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 28",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "Python"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 29",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "CSS"
+    ],
+    "image":"/projects/project.jpg"
+  },
+  {
+    "title": "Project 30",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "MongoDB"
+    ],
+    "image":"/projects/project.jpg"
+  }
+  ,
+  {
+    "title": "Project 31",
+    "description": "In this project i used ReactJs to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. ",
+    "tags": [
+      "PostgreSQL"
+    ],
+    "image":"/projects/project.jpg"
+  }
+
+]

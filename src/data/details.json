@@ -1,0 +1,8 @@
+{
+ "photo":"/photo.jpg",
+ "name":"Billy Pearson",
+ "job": "Full Stack Developer",
+ "email": "billy.pearson@example.com",
+ "phone" :"+1 234 567 8901",
+ "presentation":"Self-motivated developer, who is willing to learn and create outstanding UI applications."
+}

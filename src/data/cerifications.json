@@ -1,0 +1,24 @@
+[
+  {
+    "issued": "Jun 2022",
+    "compagny": "Amazon AWS",
+    "compangnyLogo": "/certifications/AWS.png",
+    "title": "AWS Certified Developer Associate",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  },
+  {
+    "issued": "Jul 2017",
+    "compagny": "CompTIA",
+    "compangnyLogo": "/certifications/comptia.png",
+    "title": "CompTIA Security+",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  },
+  {
+    "issued": "Feb 2015",
+    "compagny": "Oracle",
+    "compangnyLogo": "/certifications/Oracle_Associates.png",
+    "title": "Oracle Certified Associate Java",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  }
+  
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Gaming",
+    "description": "Quisque feugiat malesuada molestie.",
+    "image": "/hobbies/gaming.jpg"
+  },
+  {
+    "title": "Cooking",
+    "description": "Quisque feugiat malesuada molestie.",
+    "image": "/hobbies/cooking.jpg"
+  },
+  {
+    "title": "Biking",
+    "description": "Quisque feugiat malesuada molestie.",
+    "image": "/hobbies/biking.jpg"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "periode": "Feb 2017 - Present",
+    "compagny": "adidas",
+    "compangnyLogo": "/compagnies/adidas.jpg",
+    "job": "Front-end developer",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  },
+  {
+    "periode": "Aug 2016 - Feb 2018",
+    "compagny": "H&M",
+    "compangnyLogo": "/compagnies/H&M.png",
+    "job": "Full-stack developer",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  },
+  {
+    "periode": "Jun 2015 - Aug 2016",
+    "compagny": "nivea",
+    "compangnyLogo": "/compagnies/nivea.png",
+    "job": "Junior front-end developer",
+    "description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+  }
+  
+]
