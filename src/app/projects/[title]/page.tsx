@@ -3,11 +3,15 @@ import { ProjectComp } from "@/app/_components/projects";
 import Link from "next/link";
 import { Footer } from "@/app/_components/footer";
 
-export default function Project({ params }: { params: { title: string } }) {
+export async function generateStaticParams() {
+  return projects.map((project) => ({
+    title: project.title,
+  }));
+}
 
+export default function Project({ params }: { params: { title: string } }) {
   let { title } = params;
   title = title.replace(/%20/g, " ");
-
   const project = projects.filter((project) => project.title === title)[0];
   return (
     <>

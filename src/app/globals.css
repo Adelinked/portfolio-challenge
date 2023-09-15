@@ -22,7 +22,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
 body {
@@ -31,9 +30,6 @@ body {
   @apply font-medium;
 }
 
-
 .shadow {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
-
-
 }
