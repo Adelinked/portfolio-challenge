@@ -27,7 +27,7 @@ const Hobby = ({ title, description, image }: HobbyInterface) => {
 
 export const Hobbies = () => {
   return (
-    <div className="pt-[22px] px-[22px] mb-0 md:mb-10 rounded-xl shadow">
+    <div className="pt-[22px] px-[22px] mb-10 rounded-xl shadow">
       <p className="text-2xl mb-6">Hobbies</p>
       <div className="flex flex-col">
         {hobbies.map((hobby) => (

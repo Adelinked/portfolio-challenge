@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Footer } from "@/app/_components/footer";
 import { RelatedProjects } from "@/app/_components/relatedProjects";
 import { Suspense } from "react";
+import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
 export async function generateStaticParams() {
   return projects.map((project) => ({
@@ -23,8 +24,12 @@ export default function Project({ params }: { params: { title: string } }) {
           <RelatedProjects tags={project?.tags} excludedTitle={title} />
         </Suspense>
         <div className="pt-8 text-xl">
-          <Link href="/" title="go to home page">
-            Home Page
+          <Link
+            href="/"
+            title="go to home page"
+            className="flex items-center gap-1"
+          >
+            <HiOutlineArrowNarrowRight /> Home Page
           </Link>
         </div>
       </div>
