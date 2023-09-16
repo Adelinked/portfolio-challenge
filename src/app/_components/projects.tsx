@@ -8,7 +8,7 @@ import Link from "next/link";
 
 const CodeDemo = () => {
   return (
-    <div className="flex">
+    <div className="flex mb-6 w-full ">
       <button className="bg-white mr-3 text-blue1 px-8 py-2 md:px-10 md:py-3 rounded-xl md:text-lg border-blue1 border-[1px] hover:bg-blue1 hover:text-white">
         Demo
       </button>
@@ -50,7 +50,7 @@ export const ProjectComp = ({
         </Link>
         {detailed ? (
           <>
-            <div className="mt-8" />
+            <div className="mt-4 " />
             <CodeDemo />
           </>
         ) : null}
@@ -118,10 +118,7 @@ export const Projects = () => {
       </div>
       <div className="flex flex-col" ref={projectsRef}>
         {displayedElements.map((project, index) => (
-          <ProjectComp
-            key={project.title}
-            {...project}
-          />
+          <ProjectComp key={project.title} {...project} />
         ))}
       </div>
       <Pagination
